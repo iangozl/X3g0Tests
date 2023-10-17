@@ -5,4 +5,5 @@
 .info_div {
   position: sticky;
   top: 50%;
+  background: red;
 }
